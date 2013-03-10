@@ -1,0 +1,20 @@
+[
+{
+  "modid": "TBDMod",
+  "name": "To Be Determined Mod",
+  "description": "IDK YET",
+  "version": "@VERSION@",
+  "url": "none",
+  "updateUrl": "",
+  "authorList": [
+    "LordofDorknes"
+  ],
+  "credits": "Thanks to Pahimar for his youtube tutorials.",
+  "logoFile": "null",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
